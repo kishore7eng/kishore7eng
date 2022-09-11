@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kishore7eng
-- 👀
-- 🌱 
+- 👋 Hi, I’m Kishore
+- 👀 Welcome to my GITHUB
+- 🌱 Leetcode https://leetcode.com/rmkishore/
 - 💞️ Linked in url :https://www.linkedin.com/in/kishore-m-880591184/
 - 📫 Reach me via rmkishore7@gmail.com
 
